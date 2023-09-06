@@ -44,7 +44,7 @@ pip install -r requirements.txt
 
 ### ✏️ <ins>Step 5:</ins> 
 Navigate to the [Discord Developer Portal](https://discord.com/developers/applications), sign in to your account, click ***New Application*** and choose any name. Click accept and create. Also heading the `Bot` section and `Add Bot`. If thats your first app you might see the `Bot Token`, If is not just basically click on `Reset Token` and copy it.
-Go to [`./config.json/`](https://github.com/dxrk09/DiscordBot_SlashBadge/blob/main/config.json) and put your token there.
+Go to [`config.json`](https://github.com/dxrk09/DiscordBot_SlashBadge/blob/main/config.json) and put your token there.
 
 ### ✏️ <ins>Step 6:</ins> 
 > If you are on Windows, run the file `start_win.bat`
