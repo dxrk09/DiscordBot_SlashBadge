@@ -51,3 +51,7 @@ Go to [`config.json`](https://github.com/dxrk09/DiscordBot_SlashBadge/blob/main/
 
 > If you are on Linux, run the file `start_linux.sh`
 
+To run the bot manually, open terminal in the folder and run:
+```
+python index.py
+```
