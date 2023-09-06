@@ -19,6 +19,10 @@
 
 ### ✏️ <ins>Step 1:</ins>
 Download and install [Python](https://www.python.org/downloads) if you haven't already.
+<p align="center">
+  <img alt="python" src="https://github.com/dxrk09/DiscordBot_SlashBadge/blob/main/assets/python.PNG">
+</p>
+
 
 ### ✏️ <ins>Step 2:</ins> 
 Download this repository or clone it using [Git](https://git-scm.com/downloads).
@@ -28,7 +32,9 @@ git clone https://github.com/dxrk09/DiscordBot_SlashBadge.git
 
 ### ✏️ <ins>Step 3:</ins> 
 Open CMD/Terminal and go to folder
-
+<p>
+  <img alt="cmd" src="https://github.com/dxrk09/DiscordBot_SlashBadge/blob/main/assets/requirements.PNG">
+</p>
 
 ### ✏️ <ins>Step 4:</ins> 
 Install `requirements.txt` with the command below 
