@@ -1,4 +1,6 @@
 import requests
+import discord
+import discord.ext import commands
 import json
 import inspect
 import sys
@@ -73,7 +75,7 @@ async def on_ready():
         {Fore.LIGHTBLUE_EX}https://discord.com/api/oauth2/authorize?client_id={client.user.id}&scope=applications.commands%20bot{Fore.RESET}
     """), end="\n\n")
 
-@bot.tree.command(name="hello", description="say hi to the bot")
+@client.tree.command(name="hello", description="say hi to the bot")
 async def hello(interaction: discord.Interaction):
     await interaction.response.send_message(f'Hi there, {interaction.user.mention}')
     
